@@ -1,7 +1,7 @@
 # GIS Analysis
 
 ## Problem
-Predict temperatures that are to be experienced in South Africa
+Predict temperatures that are to be experienced in Africa
 
 ## Dataset
 A file hosting site called nacisdn used by Natural Earth to distribute free, public-domain vector and raster map data.
