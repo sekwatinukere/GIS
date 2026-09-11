@@ -20,12 +20,3 @@ Power BI
 4. Feature engineering
 5. Model training
 6. Model evaluation
-
-## Results
-Explain the important results.
-
-## Business Recommendations
-Explain what the results mean for the organization.
-
-## Future Improvements
-Explain what could be improved.
