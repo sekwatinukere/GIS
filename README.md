@@ -1,4 +1,4 @@
-# GIS Analysis
+# Geospatial Information System Analysis
 
 ## Problem
 Predict temperatures that are to be experienced in Africa
